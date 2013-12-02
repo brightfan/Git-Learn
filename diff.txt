@@ -1,1 +1,5 @@
 line 0 start point
+
+line 1 middle point added but not to commit
+
+line 2 end point not added not committed
